@@ -1,9 +1,0 @@
-git init
-git config --global user.name "username here"
-git config --global user.email "email"
-git -v
-git status - shows status of git commits
-git add filename - adds to staging area
-git commit -m “put a descriptive note here” - adds a commit of everything in staging area
-git log - shows commits and their id codes and who created the commit
-git rm --cached filename - removes file from staging area
